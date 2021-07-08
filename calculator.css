@@ -1,0 +1,30 @@
+.main{
+    height:400px;
+    width:350px;
+    background:grey;
+}
+.disp{
+    pointer-events:none;
+    width:350px;
+    height:70px;
+    padding:10px 20px;
+    box-sizing:border-box;
+}
+input[type=text]{
+    width:300px;
+    height:40px;
+    border-radius: 5px;
+    border: 1px;
+}
+.btn{
+    width:40px;
+    height:30px;
+    margin-left:30px;
+    margin-top:20px;
+    background: coral;
+    border: 1px solid papayawhip;
+    border-radius: 6px;
+}
+.type{
+    padding-left: 10px;
+}
